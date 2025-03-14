@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "types": ["../types"],
+        "strict": true,
+        "target": "ESNext",
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "outDir": "../../dist-electron/preload",
+        "skipLibCheck": true
+    }
+}
